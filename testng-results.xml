@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2463" started-at="2016-11-02T17:03:09Z" finished-at="2016-11-02T17:03:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2463" started-at="2016-11-02T17:03:09Z" finished-at="2016-11-02T17:03:11Z">
+      <class name="com.test.ITunesSearchTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="beforeSuite" is-config="true" duration-ms="25" started-at="2016-11-02T10:03:08Z" finished-at="2016-11-02T10:03:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="beforeClass" is-config="true" duration-ms="2373" started-at="2016-11-02T10:03:09Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testArtistId()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="testArtistId" duration-ms="13" started-at="2016-11-02T10:03:11Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArtistId -->
+        <test-method status="PASS" signature="testArtistName()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="testArtistName" duration-ms="2" started-at="2016-11-02T10:03:11Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArtistName -->
+        <test-method status="PASS" signature="testResultCount()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="testResultCount" duration-ms="2" started-at="2016-11-02T10:03:11Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResultCount -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="testStatusCode" duration-ms="3" started-at="2016-11-02T10:03:11Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.test.ITunesSearchTest@51081592]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-11-02T10:03:11Z" finished-at="2016-11-02T10:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.ITunesSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
